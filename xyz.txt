@@ -1,0 +1,4 @@
+aditya|11|A1
+amit|13|A1
+ayush|16|B1
+ankush|10|C1
